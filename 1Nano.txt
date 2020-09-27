@@ -1,2 +1,0 @@
-This is the first file i have created in git which i wanted to add
- in my git profile.
